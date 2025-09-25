@@ -1,0 +1,26 @@
+This is a demo .json file
+
+[
+    {
+        "Event Number": "",
+        "Event Name": "",
+        "Event IC": "",
+        "Date": "",
+        "Event Type": "",
+        "Report Doc": "",
+        "Geo Photo": "",
+        "Attendees": "",
+        "Resource Person": "",
+        "Designation": ,
+        "Address": "",
+        "Funding": "",
+        "Days": "",
+        "Audience": "",
+        "Mission Mapping": "",
+        "PO-PSO Mapping": "",
+        "Attendance Check": "",
+        "Permission Docs": "",
+        "CO-PO Link": "",
+        "Remarks": ""
+    }
+]
